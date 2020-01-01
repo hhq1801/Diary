@@ -1,13 +1,15 @@
 # 日记
 
-下了些决心，想要做学术，想要读博。
+想要读博。
 
-那么这大概是一个学习日记+资料簿吧
+一个学习日记+资料簿吧
 
 ## 目录
 [2019-12-28](https://github.com/hhq1801/Diary/blob/master/2019-12-28.md) 图情博客
 [2019-12-29](https://github.com/hhq1801/Diary/blob/master/2019-12-29.md) 
 [2019-12-31](https://github.com/hhq1801/Diary/blob/master/2019-12-31.md) 新年快乐，总结，展望
+[2019-01-01](https://github.com/hhq1801/Diary/blob/master/2019-01-01.md) orcid
+
 ## 之后有几个想写想思考的主题：（也是回顾一下这两年半都在上什么课，学到了什么）
 
 南大支付宝开放与图书馆社会化
