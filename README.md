@@ -9,9 +9,9 @@
 - [2019-12-29](https://github.com/hhq1801/Diary/blob/master/2019-12-29.md) 
 - [2019-12-31](https://github.com/hhq1801/Diary/blob/master/2019-12-31.md) 新年快乐，总结，展望
 - [2020-01-01](https://github.com/hhq1801/Diary/blob/master/2020-01-01.md) orcid
-- [2020-01-02](https://github.com/hhq1801/Diary/blob/master/2020-01-02.md) 
-- [2020-01-10](https://github.com/hhq1801/Diary/blob/master/2020-01-10.md) 
-- [2020-01-13](https://github.com/hhq1801/Diary/blob/master/2020-01-13.md) 
+- [2020-01-02](https://github.com/hhq1801/Diary/blob/master/2020-01-02.md) 高性能计算平台
+- [2020-01-10](https://github.com/hhq1801/Diary/blob/master/2020-01-10.md) 图书馆藏刊
+- [2020-01-13](https://github.com/hhq1801/Diary/blob/master/2020-01-13.md) 何为学科和学科交叉，im专业课
 - [2020-01-14](https://github.com/hhq1801/Diary/blob/master/2020-01-14.md) 
 
 ## 之后有几个想写想思考的主题：（也是回顾一下这两年半都在上什么课，学到了什么）
