@@ -8,7 +8,11 @@
 - [2019-12-28](https://github.com/hhq1801/Diary/blob/master/2019-12-28.md) 图情博客
 - [2019-12-29](https://github.com/hhq1801/Diary/blob/master/2019-12-29.md) 
 - [2019-12-31](https://github.com/hhq1801/Diary/blob/master/2019-12-31.md) 新年快乐，总结，展望
-- [2019-01-01](https://github.com/hhq1801/Diary/blob/master/2019-01-01.md) orcid
+- [2020-01-01](https://github.com/hhq1801/Diary/blob/master/2020-01-01.md) orcid
+- [2020-01-02](https://github.com/hhq1801/Diary/blob/master/2020-01-02.md) 
+- [2020-01-10](https://github.com/hhq1801/Diary/blob/master/2020-01-10.md) 
+- [2020-01-13](https://github.com/hhq1801/Diary/blob/master/2020-01-13.md) 
+- [2020-01-14](https://github.com/hhq1801/Diary/blob/master/2020-01-14.md) 
 
 ## 之后有几个想写想思考的主题：（也是回顾一下这两年半都在上什么课，学到了什么）
 
