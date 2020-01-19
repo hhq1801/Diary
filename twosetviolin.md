@@ -28,3 +28,20 @@ https://youtu.be/90-qszhrsPw
 | 1948 | Violin Concerto in C major OP.48 | Kabalevsky | B |
 | 1955 | Violin Concerto No.1 in A minor OP.77 | Shostakovich | E |
 | 1987 | Violin Concerto No.1 | Philip Glass | B
+
+https://www.youtube.com/watch?v=OXLnDvwD0v0
+| Composer | piece | players | 
+|---|---|---|
+| Sibelius | Violin Concerto in D minor | EB |
+| Vieuxtemps | Violin Concerto No.4 in D minor | BE |
+| Lalo | Symphonie Espagnole in D minor | EB |
+| Wieniawski | Violin Concer No.2 in D minor | BE |
+| Mendelssohn | Concerto for Violin and Strings in D minor | EB |
+| Khachaturian | Violin Concerto in D minor | BE |
+| Brahms | Violin Concerto in D major | EB |
+| Tchaiovsky | Violin Concerto in D major | BE |
+| Paganini | Violin Concerto No.1 in D major | EB |
+| Mozart | Violin Concerto in D minor | BE |
+| Beethoven | Violin Concerto in D major | EB |
+| Prokofiev | Violin Concerto No.1 in D major | BE |
+| Korngold | Violin Concerto in D major | EB
